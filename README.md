@@ -39,3 +39,8 @@ Our tool [nuttenh-o-tron-webui](https://github.com/devsoleo/nuttenh-o-tron-webui
 1. Download the Nuttenh-o-tron repository.
 2. Extract the files to your World of Warcraft `Interface/AddOns` folder.
 3. Launch the game and activate the addon in the addon menu.
+
+## Legacy
+Here are the archived repos for the first version of the addon :
+- https://github.com/devsoleo/Nuttenhotron-admin
+- https://github.com/devsoleo/Nuttenhotron-client
